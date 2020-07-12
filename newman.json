@@ -1,11 +1,11 @@
 {
-"Version":"4.0",
+"Version":"4.1",
  //เปลี่ยนแต่เลขเท่านั้น
 "Url":"https://github.com/newmanvpn2020/newman/raw/master/freedom.zip" ,
 "Changelog":"
  เทส อัพเดทไฟล์ล่าสุด 
 
-  03/07/63 
+  12/07/63 
 
   FREEDOM VPN
   baannet vpn
@@ -14,7 +14,7 @@
     อิสระ แห่งการสื่อสาร
     บ้านนี้ อยู่แล้วออนไลน์
  
-     รองรับซิมDtac
+     รองรับซิม Ais, Dtac
    โปร Social, Shopee, Happywork
      ซิมTure = โปร Line, Youtube
  
