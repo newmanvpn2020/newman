@@ -1,13 +1,7 @@
 {
+   "platform": [{
 
-    "platform": [{
-
-            
-
-            "name": "Config : 2.3"
-
-        }
-
-    ]
-
+           "name": "Config : 2.3"
+      }
+   ]
 }
