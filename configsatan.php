@@ -1,7 +1,7 @@
 {
     "platform": [{
 
-          "name": "Config : 2.9"
+          "name": "Config : 3.0"
        }
     ]
 }
